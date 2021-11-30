@@ -15,7 +15,6 @@ SSHN-RS数据库构建主要分为如下步骤：
 
 如果需要进行相关研究，请联系：cbcbingchuan@sina.com
 
-<img src="https://github.com/仓库名/项目名/blob/master/m/20200424230936851.png" width="200" height="200" alt="抖音小程序"/><br/>
-<img src="https://github.com/仓库名/项目名/blob/master/m/20200424230237910.jpg" width="200" height="200" alt="微信小程序"/><br/>
-<img src="https://github.com/仓库名/项目名/blob/master/m/20200424225428179.jpg" width="200"  alt="支付宝小程序"/><br/>
+<img src="https://github.com/Bingchuan897/SSHN-RS/blob/main/Dataset/%E5%A4%9A%E6%A0%B7%E6%80%A7.png" width="200" height="200">
+
 
