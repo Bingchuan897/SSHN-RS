@@ -15,8 +15,16 @@ SSHN-RS数据库构建主要分为如下步骤：
 
 <img src="https://github.com/Bingchuan897/SSHN-RS/blob/main/Dataset/%E6%A0%87%E6%B3%A8%E6%A0%B7%E4%BE%8B.png" width="500" height="150">
 
+3 数据集配置与统计
+SSHN-RS数据集包含3004张舰船舷号图片，训练集分配898个舷号的图像，测试集分配2106张舷号的图像，各字符分布如下图所示。
+
+<img src="https://github.com/Bingchuan897/SSHN-RS/blob/main/Dataset/%E6%A0%87%E6%B3%A8%E6%A0%B7%E4%BE%8B.png" width="500" height="150">
+
+
+
+
 如果需要进行相关研究，请联系：cbcbingchuan@sina.com
 
-<img src="https://github.com/Bingchuan897/SSHN-RS/blob/main/Dataset/%E5%A4%9A%E6%A0%B7%E6%80%A7.png" width="200" height="200">
+
 
 
