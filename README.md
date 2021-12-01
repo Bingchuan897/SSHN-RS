@@ -7,11 +7,11 @@ SSHN-RS数据库构建主要分为如下步骤：
 
 <img src="https://github.com/Bingchuan897/SSHN-RS/blob/main/Dataset/%E9%87%87%E9%9B%86%E9%97%AE%E9%A2%98%E5%9B%BE%E7%89%87.png" width="800" height="200">
 
-2.数据标注：按照COCO数据集的格式进行标注。使用开源标注工具LabelMe对36个舰船舷号子类进行语义标注，标注方式为人工标记，标注结果保存文件为json格式。如下图所示。
+2.数据标注：按照COCO数据集的格式进行标注。如下图所示。使用开源标注工具LabelMe对36个舰船舷号子类进行语义标注，标注方式为人工标记，标注结果保存文件为json格式。
 
 <img src="https://github.com/Bingchuan897/SSHN-RS/blob/main/Dataset/%E6%A0%87%E6%B3%A8%E6%B5%81%E7%A8%8B.png" width="800" height="150">
 
-
+同时，根据所有样本属性，定义了8类样本，分别为小舷号样本、正常舷号样本、大舷号样本、倾斜舷号样本、模糊舷号样本、近岸舷号样本、远海舷号样本、被遮挡舷号样本。并对其进行分类标注。标注结果如下图所示。
 
 如果需要进行相关研究，请联系：cbcbingchuan@sina.com
 
