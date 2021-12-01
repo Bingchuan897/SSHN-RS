@@ -14,7 +14,7 @@ SSHN-RS数据库构建主要分为如下步骤：
 
 同时，根据所有样本属性，定义了8类样本，分别为小舷号样本、正常舷号样本、大舷号样本、倾斜舷号样本、模糊舷号样本、近岸舷号样本、远海舷号样本、被遮挡舷号样本。并对其进行分类标注。标注结果如下图所示。
 
-<img src="https://github.com/Bingchuan897/SSHN-RS/blob/main/Dataset/%E6%A0%87%E6%B3%A8%E6%A0%B7%E4%BE%8B.png" width="500" height="150">
+<img src="https://github.com/Bingchuan897/SSHN-RS/blob/main/Dataset/%E6%A0%87%E6%B3%A8%E6%A0%B7%E4%BE%8B.png" width="600" height="180">
 
 3 数据集配置与统计
 SSHN-RS数据集包含3004张舰船舷号图片，训练集分配898个舷号的图像，测试集分配2106张舷号的图像，各字符分布如下图所示。
