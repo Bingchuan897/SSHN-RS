@@ -3,6 +3,7 @@
 <img src="https://github.com/Bingchuan897/SSHN-RS/blob/main/Dataset/%E5%A4%9A%E6%A0%B7%E6%80%A7.png" width="800" height="600">
 
 SSHN-RS数据库构建主要分为如下步骤：
+
 1.数据采集和处理：本文从互联网视觉数据库中进行了数据采集，但在数据采集的过程中遇到了很多问题：(1)部分舰船图像不包含舷号文本；(2)多数图片含有水印和网站等干扰噪声；(3)较多图片像素过低，舷号极度模糊，如下图所示。因此为了确保数据质量，本文通过手动调整的方式对收集的数据进行了精细筛选，主要剔除不含舷号和像素过低的图像，并去除干扰噪声。
 
 <img src="https://github.com/Bingchuan897/SSHN-RS/blob/main/Dataset/%E9%87%87%E9%9B%86%E9%97%AE%E9%A2%98%E5%9B%BE%E7%89%87.png" width="700" height="150">
@@ -18,11 +19,12 @@ SSHN-RS数据库构建主要分为如下步骤：
 3 数据集配置与统计
 SSHN-RS数据集包含3004张舰船舷号图片，训练集分配898个舷号的图像，测试集分配2106张舷号的图像，各字符分布如下图所示。
 
-<img src="https://github.com/Bingchuan897/SSHN-RS/blob/main/Dataset/%E5%AD%97%E7%AC%A6%E7%BB%9F%E8%AE%A1.png" width="1000" height="300">
+<img src="https://github.com/Bingchuan897/SSHN-RS/blob/main/Dataset/%E5%AD%97%E7%AC%A6%E7%BB%9F%E8%AE%A1.png" width="900" height="300">
 
 
 
 
+该数据集不仅可以作为舰船舷号识别研究的数据支撑，也可用于舰船检测和三维位姿估计等方面的研究，促进相关领域的发展。
 如果需要进行相关研究，请联系：cbcbingchuan@sina.com
 
 
